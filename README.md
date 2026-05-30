@@ -116,11 +116,3 @@ naive-rag/
 └── assets/
     └── .gitkeep           # Assets placeholder
 ```
-
-## 📸 Screenshots
-
-A sleek, premium, glassmorphic dark-mode dashboard with real-time API connectivity indicators, active status displays, step-by-step ingestion instructions, search bars with micro-animations, loading indicators, and segmented RAG results.
-
----
-
-**Built with ❤️ using Antigravity, Gemini API, and Pinecone**
